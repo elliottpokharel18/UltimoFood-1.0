@@ -15,42 +15,42 @@ function Footer() {
                     objectFit="contain"
                     />
                  </div>
-                 <div class="flex-grow ">
-                <div class="sm:flex sm:mt-8">
-                    <div class="mt-8 sm:mt-0 sm:w-full sm:px-8 sm:space-x-8 flex flex-col md:flex-row lg:space-x-48 ml-4">
-                        <div class="flex flex-col ">
-                    <span class="font-bold text-gray-700 uppercase mb-2">Special Course</span>
-                <span class="my-2"><a href="#" class="text-primary  text-md hover:text-secondary ">Wedding Foods</a></span>
-                <span class="my-2"><a href="#" class="text-primary  text-md hover:text-secondary ">Healthy and Muscle</a></span>
-                <span class="my-2"><a href="#" class="text-primary  text-md hover:text-secondary ">Office Food Daily</a></span>
+                 <div className="flex-grow ">
+                <div className="sm:flex sm:mt-8">
+                    <div className="mt-8 sm:mt-0 sm:w-full sm:px-8 sm:space-x-8 flex flex-col md:flex-row lg:space-x-48 ml-4">
+                        <div className="flex flex-col ">
+                    <span className="font-bold text-gray-700 uppercase mb-2">Special Course</span>
+                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Wedding Foods</a></span>
+                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Healthy and Muscle</a></span>
+                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Office Food Daily</a></span>
                 </div>
-                <div class="flex flex-col">
-                    <span class="font-bold text-gray-700 uppercase mb-2">Follow us On</span>
-                <span class="my-2"><a href="#" class="text-primary  text-md hover:text-secondary ">Facebook</a></span>
-                <span class="my-2"><a href="#" class="text-primary  text-md hover:text-secondary ">Instagram</a></span>
-                <span class="my-2"><a href="#" class="text-primary  text-md hover:text-secondary ">Youtube</a></span>
+                <div className="flex flex-col">
+                    <span className="font-bold text-gray-700 uppercase mb-2">Follow us On</span>
+                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Facebook</a></span>
+                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Instagram</a></span>
+                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Youtube</a></span>
                 </div>
-                <div class="flex flex-col">
-                    <span class="font-bold text-gray-700 uppercase mt-4 md:mt-0 mb-2">Company</span>
-                <span class="my-2"><a href="#" class="text-primary text-md hover:text-secondary ">API Developer</a></span>
-                <span class="my-2"><a href="#" class="text-primary  text-md hover:text-secondary ">Career</a></span>
-                <span class="my-2"><a href="#" class="text-primary text-md hover:text-secondary ">Terms and Condition</a></span>
-                <span class="my-2"><a href="#" class="text-primary text-md hover:text-secondary ">Privacy Policy</a></span>
+                <div className="flex flex-col">
+                    <span className="font-bold text-gray-700 uppercase mt-4 md:mt-0 mb-2">Company</span>
+                <span className="my-2"><a href="#" className="text-primary text-md hover:text-secondary ">API Developer</a></span>
+                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Career</a></span>
+                <span className="my-2"><a href="#" className="text-primary text-md hover:text-secondary ">Terms and Condition</a></span>
+                <span className="my-2"><a href="#" className="text-primary text-md hover:text-secondary ">Privacy Policy</a></span>
                 </div>
-                <div class="flex flex-col">
-                    <span class="font-bold text-gray-700 uppercase mt-2 md:mt-0 mb-2">Be Our Friend</span>
-                <span class="my-2"><a  class="text-primary  text-md hover:text-secondary ">Sital Marga, Baluwatar, Kathmandu</a></span>
-                <span class="my-2"><a  class="text-primary  text-md hover:text-secondary ">ultimofood@ultimodeal.com.np</a></span>
-                <span class="my-2"><a  class="text-primary  text-md hover:text-secondary ">+977-986-2315-24</a></span>
+                <div className="flex flex-col">
+                    <span className="font-bold text-gray-700 uppercase mt-2 md:mt-0 mb-2">Be Our Friend</span>
+                <span className="my-2"><a  className="text-primary  text-md hover:text-secondary ">Sital Marga, Baluwatar, Kathmandu</a></span>
+                <span className="my-2"><a  className="text-primary  text-md hover:text-secondary ">ultimofood@ultimodeal.com.np</a></span>
+                <span className="my-2"><a  className="text-primary  text-md hover:text-secondary ">+977-986-2315-24</a></span>
                 </div>
             </div>
         </div>
     </div>
                  </div>
-    <div class="container mx-auto px-6">
-        <div class="mt-16 flex flex-col items-center">
-            <div class="sm:w-2/3 text-center py-6">
-                <p class="text-sm text-primary font-bold mb-2">
+    <div className="container mx-auto px-6">
+        <div className="mt-16 flex flex-col items-center">
+            <div className="sm:w-2/3 text-center py-6">
+                <p className="text-sm text-primary font-bold mb-2">
                     © 2021 By Ultimodeal Online Shopping
                 </p>
             </div>
