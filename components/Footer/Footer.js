@@ -26,9 +26,9 @@ function Footer() {
                 </div>
                 <div className="flex flex-col">
                     <span className="font-bold text-gray-700 uppercase mb-2">Follow us On</span>
-                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Facebook</a></span>
-                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Instagram</a></span>
-                <span className="my-2"><a href="#" className="text-primary  text-md hover:text-secondary ">Youtube</a></span>
+                <span className="my-2"><a href="https://www.facebook.com/ultimodealonline" className="text-primary  text-md hover:text-secondary ">Facebook</a></span>
+                <span className="my-2"><a href="https://www.instagram.com/ultimodeal/" className="text-primary  text-md hover:text-secondary ">Instagram</a></span>
+                <span className="my-2"><a href="https://www.youtube.com/channel/UCbFmckWeqRgBUh-7gL0aBdw" className="text-primary  text-md hover:text-secondary ">Youtube</a></span>
                 </div>
                 <div className="flex flex-col">
                     <span className="font-bold text-gray-700 uppercase mt-4 md:mt-0 mb-2">Company</span>
